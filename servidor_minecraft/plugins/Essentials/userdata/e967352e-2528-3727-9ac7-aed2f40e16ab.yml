@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.34.91.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731191498428
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731192465273
+  login: 1731188277271
+money: '0'
+last-account-name: Retorns
+lastlocation:
+  world: 84bff055-984b-46b9-a468-c81d12a3d67e
+  world-name: world
+  x: 41.112371619674306
+  y: 80.7531999805212
+  z: -15.698207928668669
+  yaw: -84.74993133544922
+  pitch: -29.400028228759766
+logoutlocation:
+  world: 84bff055-984b-46b9-a468-c81d12a3d67e
+  world-name: world
+  x: -22.921409811359794
+  y: 87.0
+  z: -84.33251184788801
+  yaw: -155.9999237060547
+  pitch: 6.150019645690918

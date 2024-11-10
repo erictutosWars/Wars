@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.8.186.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731192482495
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731192508554
+  login: 1731190433221
+money: '0'
+last-account-name: Miguelsh0t76
+lastlocation:
+  world: 84bff055-984b-46b9-a468-c81d12a3d67e
+  world-name: world
+  x: -2081.5
+  y: 32.15312379606114
+  z: 8463.5
+  yaw: -118.68580627441406
+  pitch: 7.050025463104248
+logoutlocation:
+  world: 84bff055-984b-46b9-a468-c81d12a3d67e
+  world-name: world
+  x: -2081.5
+  y: 32.15312379606114
+  z: 8463.5
+  yaw: -118.68580627441406
+  pitch: 7.050025463104248

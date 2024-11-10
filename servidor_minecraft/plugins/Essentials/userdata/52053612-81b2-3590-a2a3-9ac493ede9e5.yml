@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.110.208.242
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731191110192
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731192848883
+  login: 1731186490643
+money: '0'
+last-account-name: AsierMC
+lastlocation:
+  world: 84bff055-984b-46b9-a468-c81d12a3d67e
+  world-name: world
+  x: -1981.300000011921
+  y: 42.0
+  z: 8295.47963741268
+  yaw: 164.203369140625
+  pitch: -70.38431549072266
+logoutlocation:
+  world: 7ca1249b-ef2a-4ea0-8889-341dcf2165c6
+  world-name: world_the_end
+  x: 867.8874999880791
+  y: 61.495200877005914
+  z: -1042.063206923392
+  yaw: -66.8494873046875
+  pitch: 2.3881869316101074

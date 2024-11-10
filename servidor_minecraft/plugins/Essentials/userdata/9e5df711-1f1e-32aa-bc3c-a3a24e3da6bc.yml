@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.51.92.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731181026627
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731183252526
+  login: 1731180780170
+money: '0'
+last-account-name: ElTrenTomas2
+lastlocation:
+  world: 84bff055-984b-46b9-a468-c81d12a3d67e
+  world-name: world
+  x: 1121.1572121176853
+  y: 68.0
+  z: 914.0248734060789
+  yaw: -17.6612548828125
+  pitch: 25.309350967407227
+logoutlocation:
+  world: 84bff055-984b-46b9-a468-c81d12a3d67e
+  world-name: world
+  x: 1121.1572121176853
+  y: 68.0
+  z: 914.0248734060789
+  yaw: -17.6612548828125
+  pitch: 25.309350967407227

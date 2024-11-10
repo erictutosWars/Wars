@@ -1,0 +1,7 @@
+clear-message: '&1[&bClearChat&1] &bChat has been cleared by&d %Name&b.'
+cc: '&1[&bClearChat&1] &3%Name&b You have cleared your own chat'
+no-permission: '&4[&cClearChat&4] &cyou dont have permission to this command'
+Reload: '&1[&bClearChat&1] &bConfig reloaded.'
+lock-msg: '&1[&bClearChat&1] &3the chat is locked!'
+lock: '&1[&bClearChat&1] &b%Name&3 has locked the chat!'
+unlock: '&1[&bClearChat&1] &b%Name &3has unlocked the chat!'

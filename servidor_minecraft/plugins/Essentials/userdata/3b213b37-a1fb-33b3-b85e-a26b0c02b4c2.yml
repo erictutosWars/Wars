@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.252.149.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731181367476
+  login: 1731181202176
+money: '0'
+last-account-name: Projimo
+lastlocation:
+  world: 84bff055-984b-46b9-a468-c81d12a3d67e
+  world-name: world
+  x: 187.5522508898881
+  y: 95.0
+  z: -2.0011541608024457
+  yaw: 81.0795669555664
+  pitch: -3.8911423683166504
+logoutlocation:
+  world: 84bff055-984b-46b9-a468-c81d12a3d67e
+  world-name: world
+  x: -15.094290194529155
+  y: 103.0
+  z: -20.70121125229098
+  yaw: 93.42315673828125
+  pitch: 25.15631103515625

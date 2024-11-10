@@ -1,0 +1,2 @@
+# Configuración de la probabilidad de duplicación de objetos
+duplication-chance: 0.1  # 10% de probabilidad de duplicación

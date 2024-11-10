@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.196.139.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731187956225
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731189360980
+  login: 1731189149421
+money: '0'
+last-account-name: Maximo9875
+lastlocation:
+  world: cfa8ef55-3141-4913-b834-2c08a99b9620
+  world-name: world_nether
+  x: 31.29247969429141
+  y: 39.0
+  z: -249.9133810874935
+  yaw: -3.7490234375
+  pitch: 49.499778747558594
+logoutlocation:
+  world: cfa8ef55-3141-4913-b834-2c08a99b9620
+  world-name: world_nether
+  x: -308.69999998807907
+  y: 36.0
+  z: -104.69999998807907
+  yaw: -15.7515869140625
+  pitch: 62.09989929199219
+homes:
+  home:
+    world: cfa8ef55-3141-4913-b834-2c08a99b9620
+    world-name: world_nether
+    x: -313.7964751718755
+    y: 54.0
+    z: -111.12887438846597
+    yaw: -53.853431701660156
+    pitch: 6.750290393829346

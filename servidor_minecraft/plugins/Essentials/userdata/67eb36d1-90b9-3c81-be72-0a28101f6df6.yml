@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.18.218.69
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731192293405
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731192310233
+  login: 1731189979520
+money: '0'
+last-account-name: Mariobebe
+lastlocation:
+  world: 84bff055-984b-46b9-a468-c81d12a3d67e
+  world-name: world
+  x: 0.0
+  y: 91.0
+  z: 0.0
+  yaw: 8.999987602233887
+  pitch: -8.400003433227539
+logoutlocation:
+  world: 84bff055-984b-46b9-a468-c81d12a3d67e
+  world-name: world
+  x: -2096.6102083283595
+  y: 69.0
+  z: 8497.291870816247
+  yaw: 38.6680908203125
+  pitch: 25.6500186920166
